@@ -1,0 +1,9 @@
+name: guestbook
+description: some description
+appVersion: "1.0"
+version: 0.1.0
+keywords:
+  - "guestbook"
+type: application
+apiVersion: v2
+
